@@ -33,13 +33,10 @@ class Main {
             N--;
  
             if (K == (equals + 1))
-            {
                 System.out.print(line[0] + "\n");
-            }
             else
-            {
                 System.out.print("ingles\n");
-            }
+
             equals = 0;
         }
     }

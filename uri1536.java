@@ -38,7 +38,7 @@ class Main {
             else {
                 M1 = Character.getNumericValue((line.charAt(4)));
                 V1 = Character.getNumericValue(line.charAt(0));
-                time1_home += M;
+                time1_home += M1;
                 val = 2;
             }
             if (count % 2 == 0)

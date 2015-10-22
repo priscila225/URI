@@ -4,3 +4,4 @@ Problemas do URI resolvidos
 * uri1558
 * uri1536 libertadores
 * uri1767
+* uri1148 paises em guerra
